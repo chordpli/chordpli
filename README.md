@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @chordpli
 - 👀 I’m interested in coding and composing
 - 🌱 I’m currently learning Java web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🎶 My platlist url : https://youtu.be/1ePtRFwaDTg
 
 <!---
 chordpli/chordpli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
