@@ -5,7 +5,13 @@
   ## :musical_score: Chord PlayList <a href="https://youtu.be/1ePtRFwaDTg"><img src="https://img.shields.io/badge/YouTube Music-FF0000?style=flat-square&logo=YouTubeMusic&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchordpli%2Fhit-counter&count_bg=%23FF0000&title_bg=%23B8B8B8&icon=&icon_color=%23FF0000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
     
 </div>
-  
+
+  ### :office: Career
+  - (2023-05-15 ~ ) (주)그릿스탠다드 백앤드 개발자
+  - (2020-10-13 - 2021-12-31) (주)크레디미디어 콘텐츠 디렉터</li>
+    + 음악인 크레딧 기록 웹서비스 '크레디뮤직' 기획 및 유지 보수
+    + 아티스트를 겨냥한 메타버스 플랫폼 애플리케이션 '릴팝' 기획
+  - 프리랜서 작곡가
   
   ### :school_satchel: Education
   - (2022-03-30 - 2022-09-08) 자바 SW 개발자 양성과정
@@ -14,12 +20,7 @@
     - 우수 프로젝트팀 선정
   - (2023-05-01 - 2023-06-11) 원티드 5월 프리온보딩 백엔드 챌린지
 
-  ### :office: Career
-  - (2023-05-15 ~ ) (주)그릿스탠다드 백앤드 개발자
-  - (2020-10-13 - 2021-12-31) (주)크레디미디어 콘텐츠 디렉터</li>
-    + 음악인 크레딧 기록 웹서비스 '크레디뮤직' 기획 및 유지 보수
-    + 아티스트를 겨냥한 메타버스 플랫폼 애플리케이션 '릴팝' 기획
-  - 프리랜서 작곡가
+
 
   ### :computer: Study
   - ~ing
