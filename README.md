@@ -1,13 +1,13 @@
 
 <div align="center">
   
-  ## :musical_score: Chord PlayList <a href="https://youtu.be/1ePtRFwaDTg"><img src="https://img.shields.io/badge/YouTube Music-FF0000?style=flat-square&logo=YouTubeMusic&logoColor=white"/></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchordpli%2Fhit-counter&count_bg=%23FF0000&title_bg=%23B8B8B8&icon=&icon_color=%23FF0000&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+  ## Chordpli <a href="https://youtu.be/1ePtRFwaDTg"><img src="https://img.shields.io/badge/My Music-FF0000?style=flat-square&logo=YouTubeMusic&logoColor=white"/></a> 
     
 </div>
 
   ### :office: Career
   #### 개발
-  - (2023-05-15 ~ ) Product Engineer
+  - (2023-05-15 ~ ) Backend Engineer
 
   #### 비개발
   - (2020-10-13 - 2021-12-31) (주)크레디미디어 콘텐츠 디렉터</li>
@@ -16,7 +16,8 @@
   - 프리랜서 작곡가
 
   #### 활동
-  - 글또 10기 :memo: (2024. 09 ~ ) 
+  - 달래스터디 5기 :pencil2: (2025.07 ~ )
+  - 글또 10기 :memo: (2024. 09 ~ 2025. 03) 
   
   ### :school_satchel: Education
   - (2022-09-19 - 2023-02-17) 멋쟁이 사자처럼 백엔드 스쿨 2기</li>
