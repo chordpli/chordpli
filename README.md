@@ -7,7 +7,8 @@
 
   ### 🚀 Open Source
 
-  - **[github/spec-kit](https://github.com/github/spec-kit)** (⭐ 89.9k) — Contributor & Extension Author
+  - **[github/spec-kit](https://github.com/github/spec-kit)** (⭐ 90k) — Contributor & Extension Author
+    - [#2316](https://github.com/github/spec-kit/pull/2316) `Merged` — Added `specify self` CLI commands: `self check` for release/version update detection and `self upgrade` as a safe non-destructive stub
     - [#2296](https://github.com/github/spec-kit/pull/2296) `Merged` — Patched a directory traversal vulnerability in `CommandRegistrar` with lexical containment checks (+22 regression tests)
     - [#2252](https://github.com/github/spec-kit/pull/2252) `Merged` — Authored **[Blueprint](https://github.com/chordpli/spec-kit-blueprint)**: pre-implementation planner that turns spec artifacts into file-level blueprints
     - [#2272](https://github.com/github/spec-kit/pull/2272) `Merged` — Authored **[Ripple](https://github.com/chordpli/spec-kit-ripple)**: post-implementation detector for side effects *outside* the change set
